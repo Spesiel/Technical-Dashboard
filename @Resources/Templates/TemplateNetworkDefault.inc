@@ -1,0 +1,6 @@
+NetworkMeasureInBytes=1
+NetworkMeasureCumulative=0
+NetworkMeasureInBytesSelect=#BackdropColor#
+NetworkMeasureInBitsSelect=#ColorClear#
+NetworkMeasureCumulativeShowSelect=#BackdropColor#
+NetworkMeasureCumulativeHideSelect=#ColorClear#

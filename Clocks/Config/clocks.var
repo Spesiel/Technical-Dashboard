@@ -1,0 +1,81 @@
+[Metadata]
+Name=ClocksSettings
+Author=Lucky Penny
+Information=Variables for the clocks
+License=Creative Commons BY-NC-SA 3.0
+Version=0.0.1
+
+[Variables]
+
+;------------------------------------------------------------------------------
+; Clocks individual variables
+
+; Clock1 variables
+Clock1_Display=1
+Clock1_Label=CST
+Clock1_12or24=H
+Clock1_Timezone=Local
+Clock1_DST=1
+
+; Clock2 variables
+Clock2_Display=1
+Clock2_Label=Missouri
+Clock2_12or24=I
+Clock2_Timezone=Local
+Clock2_DST=1
+
+; Clock3 variables
+Clock3_Display=1
+Clock3_Label=France
+Clock3_12or24=H
+Clock3_Timezone=1
+Clock3_DST=1
+
+; Clock4 variables
+Clock4_Display=1
+Clock4_Label=New Zealand
+Clock4_12or24=H
+Clock4_Timezone=-6
+Clock4_DST=0
+
+;------------------------------------------------------------------------------
+; Used by the configurators
+
+Clock1_OnSelect=100,250,100
+Clock1_OffSelect=255,255,255,50
+Clock1_12Select=0,0,0,0
+Clock1_24Select=255,255,255,50
+Clock1_DSTOnSelect=100,250,100
+Clock1_DSTOffSelect=255,255,255,50
+
+DateAndClock1_DateLeft=255,255,255,50
+DateAndClock1_DateRight=0,0,0,0
+
+Clock2_OnSelect=100,250,100
+Clock2_OffSelect=255,255,255,50
+Clock2_12Select=255,255,255,50
+Clock2_24Select=0,0,0,0
+Clock2_DSTOnSelect=100,250,100
+Clock2_DSTOffSelect=255,255,255,50
+
+DateAndClock2_DateLeft=0,0,0,0
+DateAndClock2_DateRight=255,255,255,50
+
+Clock3_OnSelect=100,250,100
+Clock3_OffSelect=255,255,255,50
+Clock3_12Select=0,0,0,0
+Clock3_24Select=255,255,255,50
+Clock3_DSTOnSelect=100,250,100
+Clock3_DSTOffSelect=255,255,255,50
+
+DateAndClock3_DateLeft=#BackdropColor#
+DateAndClock3_DateRight=#ColorClear#
+
+Clock4_OnSelect=100,250,100
+Clock4_OffSelect=255,255,255,50
+Clock4_12Select=0,0,0,0
+Clock4_24Select=255,255,255,50
+Clock4_DSTOnSelect=255,255,255,50
+Clock4_DSTOffSelect=250,100,100
+DateAndClock4_DateLeft=#BackdropColor#
+DateAndClock4_DateRight=#ColorClear#

@@ -1,0 +1,27 @@
+[Metadata]
+Name=GpusSettings
+Author=Lucky Penny
+Information=Variables for the gpus
+License=Creative Commons BY-NC-SA 3.0
+Version=0.0.3
+
+[Variables]
+GpusTotal=1
+Gpu1SensorId=0xe0001800
+Gpu1CoreInstance=0x0
+Gpu1CoreUsageEntryId=0x7000000
+Gpu1CoreClockEntryId=0x6000000
+Gpu1TempEntryId=0x1000000
+Gpu1FanOffRpmPercent=2
+Gpu1FanSetOff=#ColorClear#
+Gpu1FanSetRpm=#ColorClear#
+Gpu1FanSetPercent=#BackdropColor#
+Gpu1FanRpmEntryId=0x3000000
+Gpu1FanPercentEntryId=0x8000000
+Gpu1NVidiaAmd=1
+Gpu1NVidiaAmdSetNVidia=255,255,255,50
+Gpu1NVidiaAmdSetAmd=0,0,0,0
+Gpu1NVidiaMemoryAllocatedEntryId=0x8000001
+Gpu1NVidiaMemoryUsageEntryId=0x7000001
+Gpu1AMDD3DMemoryDedicated=0x8000001
+Gpu1AMDD3DMemoryTotal=2048
