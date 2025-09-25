@@ -6,4 +6,4 @@ License=Creative Commons BY-NC-SA 3.0
 Version=0.0.1
 
 [Variables]
-FortuneMaximumLength=500
+FortuneMaximumLength=210
