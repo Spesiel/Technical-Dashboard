@@ -37,7 +37,7 @@ StringAlign=Center
 X=[Clock2_MeterLabel:X]
 Y=-1R
 Text=:
-FontSize=28
+FontSize=26
 FontColor=#TextColor#
 UpdateDivider=-1
 Hidden=(#Clock2_Display#<>1)
@@ -50,7 +50,7 @@ X=-1r
 Y=0r
 MeasureName=Clock2_MeasureTime_Hours
 Text=%1
-FontSize=28
+FontSize=26
 Hidden=(#Clock2_Display#<>1)
 
 [Clock2_MeterTimeMinutes]
@@ -61,5 +61,5 @@ X=1r
 Y=0r
 MeasureName=Clock2_MeasureTime_Minutes
 Text=%1
-FontSize=28
+FontSize=26
 Hidden=(#Clock2_Display#<>1)
