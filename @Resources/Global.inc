@@ -51,6 +51,12 @@ BarOrientation=Horizontal
 BarColor=#MeterColor#
 SolidColor=#BackdropColor#
 
+[BarStyleInverted]
+BarOrientation=Horizontal
+BarColor=#MeterColor#
+SolidColor=119,119,119,100
+Flip=1
+
 [HistogramStyle]
 PrimaryColor=#MeterColor#
 SolidColor=#BackdropColor#
