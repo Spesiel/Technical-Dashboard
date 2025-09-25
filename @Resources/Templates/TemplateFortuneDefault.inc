@@ -1,1 +1,0 @@
-FortuneMaximumLength=145
