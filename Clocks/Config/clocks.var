@@ -35,7 +35,7 @@ Clock3_DST=1
 Clock4_Display=1
 Clock4_Label=New Zealand
 Clock4_12or24=H
-Clock4_Timezone=-6
+Clock4_Timezone=12
 Clock4_DST=0
 
 ;------------------------------------------------------------------------------
