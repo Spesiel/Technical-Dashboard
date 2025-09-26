@@ -1,0 +1,19 @@
+[Metadata]
+Name=VolumeSettings
+Author=Lucky Penny
+Information=Variables for the fortune
+License=Creative Commons BY-NC-SA 3.0
+Version=0.0.1
+
+[Variables]
+Audio_Measure_Out_Display=1
+Audio_Measure_In_Display=1
+
+;------------------------------------------------------------------------------
+; Used by the configurators
+
+Out_OnSelect=100,250,100
+Out_OffSelect=255,255,255,50
+
+In_OnSelect=100,250,100
+In_OffSelect=255,255,255,50
